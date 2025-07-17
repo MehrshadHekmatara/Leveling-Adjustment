@@ -21,18 +21,7 @@ This project includes both **Python** and **MATLAB** implementations to:
 ## 📁 File Structure
 
 Leveling-Adjustment/
-├── Python/
-│ ├── leveling_adjustment.py # Python implementation
-│ ├── y.xlsx # Observation vector
-│ ├── X.xlsx # Reference matrix
-│ ├── Sind.xlsx # Start point indices
-│ ├── Eind.xlsx # End point indices
-│
-├── MATLAB/
-│ ├── leveling_adjustment.m # MATLAB implementation
-│ ├── data02.mat # Contains y, X, Sind, Eind
-│
-├── README.md # Project documentation
+<pre> Leveling-Adjustment/ ├── Python/ │ ├── proj.py # Python implementation │ ├── y.xlsx # Observation vector │ ├── X.xlsx # x coordinates matrix │ ├── Sind.xlsx # Start point indices │ ├── Eind.xlsx # End point indices │ ├── MATLAB/ │ ├── prj2.m # MATLAB implementation │ ├── data02.mat # Contains y, X, Sind, Eind │ ├── README.md # Project documentation </pre>
 
 
 ---
